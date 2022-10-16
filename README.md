@@ -5,10 +5,6 @@
 
 ### Author: Razan Aloweadt
 
-### Links and Resources
-
-- Link01
-- Link02
 
 ### Setup
 
@@ -21,8 +17,7 @@ i.e.
 
 #### How to initialize/run your application (where applicable)
 
-- e.g. `python main.py`
-
+`python Snake_Cafe.py`
 #### How to use your library (where applicable)
 
 #### Tests
