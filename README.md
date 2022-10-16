@@ -17,7 +17,7 @@ i.e.
 
 #### How to initialize/run your application (where applicable)
 
-`python Snake_Cafe.py`
+`python snake_cafe.py`
 #### How to use your library (where applicable)
 
 #### Tests
